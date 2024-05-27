@@ -1,0 +1,53 @@
+{
+  "hash": "41aa23f8",
+  "browserHash": "0fd7d09f",
+  "optimized": {
+    "@hotwired/turbo": {
+      "src": "../../@hotwired/turbo/dist/turbo.es2017-esm.js",
+      "file": "@hotwired_turbo.js",
+      "fileHash": "16191316",
+      "needsInterop": false
+    },
+    "bootstrap": {
+      "src": "../../bootstrap/dist/js/bootstrap.esm.js",
+      "file": "bootstrap.js",
+      "fileHash": "aed3ea4c",
+      "needsInterop": false
+    },
+    "clipboard": {
+      "src": "../../clipboard/dist/clipboard.js",
+      "file": "clipboard.js",
+      "fileHash": "bdb1b2ec",
+      "needsInterop": true
+    },
+    "jquery": {
+      "src": "../../jquery/dist/jquery.js",
+      "file": "jquery.js",
+      "fileHash": "c111e967",
+      "needsInterop": true
+    },
+    "laravel-echo": {
+      "src": "../../laravel-echo/dist/echo.js",
+      "file": "laravel-echo.js",
+      "fileHash": "72fee161",
+      "needsInterop": false
+    },
+    "pusher-js": {
+      "src": "../../pusher-js/dist/web/pusher.js",
+      "file": "pusher-js.js",
+      "fileHash": "c4c1fbf6",
+      "needsInterop": true
+    },
+    "trumbowyg": {
+      "src": "../../trumbowyg/dist/trumbowyg.js",
+      "file": "trumbowyg.js",
+      "fileHash": "19f4f764",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-6TJCVOLN": {
+      "file": "chunk-6TJCVOLN.js"
+    }
+  }
+}
